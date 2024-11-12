@@ -1,0 +1,72 @@
+body{
+    background-color:rgb(13,26,45) ;
+    max-width: 100vw;
+    max-height: 100vh;
+    font-family: sans-serif;
+}
+.card{
+    background-color:rgb(21,39,63);
+    max-width: 290px;
+    height: 496px;
+    width: 100%;
+    position: absolute;
+    margin: auto;
+    inset: 0;
+    border-radius: 16px;
+    padding: 18px;
+    padding-bottom: 35px;
+    box-shadow:  0px 22px 12px 18px rgb(12, 23, 41);
+}
+img{
+    width: 100%;
+    border-radius: 6px;     
+}
+h2{
+    color: rgb(239,242,250);
+}
+p{
+    color: rgb(106,127,158);
+    font-size: 18px;
+}
+.span-one{
+    
+ color: #00FFF8;
+ 
+}
+.svg1{
+    vertical-align: middle;
+}
+.svg2{
+    margin-left: 33%;
+    vertical-align: middle;
+}
+.span-two{
+    color: #8BACD9;
+
+}
+.avatar-div{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 1px solid white;
+    margin-top: 15px;
+    vertical-align: middle;
+}
+.ava-img{
+    width: 30px;
+    height: 30px;
+}
+.linediv{
+    background-color: rgb(45,63,87);
+    height: 1px;
+    width: inherit;
+    margin-top: 15px;
+}
+.span-3{
+    color: rgb(128,151,182);
+    margin-left: 10px;
+}
+b{
+    color: rgb(229,238,245);
+}
